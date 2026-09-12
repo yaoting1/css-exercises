@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+p{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif,fallback;
+}
+.a2{
+    color: blue;
+    font-size: 36px;
+}
+*{
+    font-size: 24px;
+}
+.a4{
+    background-color: chartreuse;
+    font-weight: bold;
+}
