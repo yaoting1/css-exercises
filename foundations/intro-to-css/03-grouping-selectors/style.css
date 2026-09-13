@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+*{
+    font-size: 28px;
+    font-family: 'Times New Roman', sans-serif;
+}
+.a1{
+    background-color: black;
+    color: white;
+}
+.a2{
+    background-color: yellow;
+}
